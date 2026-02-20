@@ -1,7 +1,15 @@
-## Hi there 👋
+## Buen día sumercé, mi nombre es Juan. 
 
 <!--
 **jucardozop/jucardozop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de ingeniería de sistemas, de la Universidad Nacional de Colombia
+
+tengo conocimiento en:
+Bases de datos en mysql
+Programción orientada a objetos en java
+frontend html, css, javascript
+
+Me gusta mucho caminar donde haya pasto, en especial debajo de la sombra de los arboles.
 
 Here are some ideas to get you started:
 
